@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with [Parrot](https://github.com/loty2019/Parrot)
 
-- 👨‍💻 All of my projects are available at [https://www.lorenzoorio.com/](https://www.lorenzoorio.com/)
+- 👨‍💻 All of my projects are available at [https://www.lorenzoorio.com/](https://www.lorenzoorio.com/coding-projects)
 
 - 📫 How to reach me **lorenzo.orio@icloud.com**
 
