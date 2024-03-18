@@ -5,11 +5,11 @@
 
 - 🤝 I’m looking for help with [Parrot](https://github.com/loty2019/Parrot)
 
-- 👨‍💻 All of my projects are available at [https://www.lorenzoorio.com/](https://www.lorenzoorio.com/coding-projects)
+- 👨‍💻 All of my projects are available at [lorenzoorio.com](https://www.lorenzoorio.com/coding-projects)
 
 - 📫 How to reach me **lorenzo.orio@icloud.com**
 
-- 📄 Know about my experiences [https://www.lorenzoorio.com/contact](https://www.lorenzoorio.com/contact)
+- 📄 Know about my experiences [lorenzoorio.com/contact](https://www.lorenzoorio.com/contact)
 
 - ⚡ Fun fact **I'm a car enthusiast and love motor racing**
 
