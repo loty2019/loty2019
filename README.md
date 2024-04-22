@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Visualization and Cybersecurity**
 
-- 🤝 I’m looking for help with [Parrot](https://github.com/loty2019/Parrot)
+- 🤝 I’m looking for help with [Wiser-Plus](https://github.com/loty2019/Wiser-plus)
 
 - 👨‍💻 All of my projects are available at [lorenzoorio.com](https://www.lorenzoorio.com/coding-projects)
 
