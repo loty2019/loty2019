@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [lorenzoorio.com/expirience](https://www.lorenzoorio.com/expirience)
 
-- ⚡ Fun fact **I'm a car enthusiast and love motor racing**
+- ⚡ Fun fact **I'm a car enthusiast and love F1 racing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
