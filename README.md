@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lorenzo.orio@icloud.com**
 
-- 📄 Know about my experiences [lorenzoorio.com/contact](https://www.lorenzoorio.com/contact)
+- 📄 Know about my experiences [lorenzoorio.com/expirience](https://www.lorenzoorio.com/expirience)
 
 - ⚡ Fun fact **I'm a car enthusiast and love motor racing**
 
