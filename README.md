@@ -5,11 +5,11 @@
 
 - 🤝 I’m looking for help with [Wiser-Plus](https://github.com/loty2019/Wiser-plus)
 
-- 👨‍💻 All of my projects are available at [lorenzoorio.com](https://www.lorenzoorio.com/coding-projects)
+- 👨‍💻 All of my projects are available at [lorenzoorio.com](https://www.lorenzoorio.com)
 
 - 📫 How to reach me **lorenzo.orio@icloud.com**
 
-- 📄 Know about my [**experience**](https://www.lorenzoorio.com)
+- 📄 Know about my [**experience**](https://www.lorenzoorio.com/resume)
 
 - ⚡ Fun fact **I'm a car enthusiast and love F1 racing**
 
