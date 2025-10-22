@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-- 🌱 I’m currently learning **Data Visualization and Cybersecurity**
+- 🌱 I’m currently learning **Backend**
 
 - 🤝 I’m looking for help with [Wiser-Plus](https://github.com/loty2019/Wiser-plus)
 
